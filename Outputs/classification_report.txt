@@ -1,0 +1,114 @@
+== seen angles, 1 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
+== seen angles, 2 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
+== seen angles, 3 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
+== unseen angles, 1 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
+== unseen angles, 2 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
+== unseen angles, 3 view(s) ==
+               precision    recall        f1   support
+wave_right         1.000     1.000     1.000        40
+wave_left          1.000     1.000     1.000        40
+clap               1.000     1.000     1.000        40
+jumping_jack       1.000     1.000     1.000        40
+squat              1.000     1.000     1.000        40
+sit_stand          1.000     1.000     1.000        40
+jump               1.000     1.000     1.000        40
+kick               1.000     1.000     1.000        40
+walk               1.000     1.000     1.000        40
+bow                1.000     1.000     1.000        40
+drink              1.000     1.000     1.000        40
+punch              1.000     1.000     1.000        40
+
+accuracy                               1.000       480
+macro avg          1.000     1.000     1.000       480
+weighted f1                            1.000       480
+
