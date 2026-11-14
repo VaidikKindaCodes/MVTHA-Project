@@ -1,0 +1,4 @@
+torch>=1.10      # tested target: 2.x
+numpy
+matplotlib       # GIF / PNG rendering only
+pillow           # GIF writer

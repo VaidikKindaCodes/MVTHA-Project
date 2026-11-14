@@ -1,0 +1,29 @@
+{
+  "accuracy": {
+    "camera angles like training (|yaw| <= 60\u00b0)": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "UNSEEN side/back views (70\u00b0 <= |yaw| <= 120\u00b0)": [
+      0.9933333333333333,
+      1.0,
+      1.0
+    ]
+  },
+  "per_class_unseen": {
+    "wave_right": 1.0,
+    "wave_left": 1.0,
+    "clap": 1.0,
+    "jumping_jack": 1.0,
+    "squat": 1.0,
+    "sit_stand": 1.0,
+    "jump": 1.0,
+    "kick": 1.0,
+    "walk": 1.0,
+    "bow": 1.0,
+    "drink": 1.0,
+    "punch": 1.0
+  },
+  "stream_frame_accuracy": 0.953125
+}
